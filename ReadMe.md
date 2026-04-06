@@ -40,10 +40,10 @@ It leverages computer vision and neural networks to assist in **content filterin
 ```
 SecureLens/
 │
-├── app.py                         # Streamlit application
+├── app.py                           # Streamlit application
 ├── securelens_model_training.ipynb  # Model training notebook
-├── requirements.txt              # Dependencies
-├── README.md                     # Project documentation
+├── requirements.txt                # Dependencies
+├── README.md                       # Project documentation
 ```
 
 ---
