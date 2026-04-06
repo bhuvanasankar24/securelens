@@ -42,8 +42,8 @@ SecureLens/
 │
 ├── app.py                           # Streamlit application
 ├── securelens_model_training.ipynb  # Model training notebook
-├── requirements.txt                # Dependencies
-├── README.md                       # Project documentation
+├── requirements.txt                 # Dependencies
+├── README.md                        # Project documentation
 ```
 
 ---
